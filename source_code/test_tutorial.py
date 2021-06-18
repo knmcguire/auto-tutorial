@@ -1,4 +1,6 @@
 ## TUTORIAL_PREAMBLE
+## TITLE
+## ===
 ## This is first text
 ## TUTORIAL_STOP
 
@@ -14,6 +16,19 @@ import sys
 
 import os
 
+## TUTORIAL_STOP
+
+## TUTORIAL_STEP: 3
+## First we add this
+
+if __name__ == '__main__':
+    
+## Then we add this
+
+    print('hello world!!')
+    print('I am here!')
+
+## Tada!
 ## TUTORIAL_STOP
 
 ## TUTORIAL_POSTAMBLE
