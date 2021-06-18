@@ -1,16 +1,22 @@
-## Hello
+## TUTORIAL_PREAMBLE
+## This is first text
+## TUTORIAL_STOP
 
-## AUTO_TUTORIAL: 1
+## TUTORIAL_STEP: 1
 ## Text about step 1
 
 import sys
 
-## AUTO_TUTORIAL_STOP
+## TUTORIAL_STOP
 
-## AUTO_TUTORIAL: 2
+## TUTORIAL_STEP: 2
 ## Text about step 2
 
 import os
 
-## AUTO_TUTORIAL_STOP
+## TUTORIAL_STOP
+
+## TUTORIAL_POSTAMBLE
+## This is the final text
+## TUTORIAL_STOP
 
