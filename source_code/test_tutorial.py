@@ -11,14 +11,15 @@ import sys
 
 ## TUTORIAL_STOP
 
-## TUTORIAL_STEP: 2
-## Text about step 2
+
+## TUTORIAL_STEP: 3
+## Woops! we forgot this
 
 import os
 
 ## TUTORIAL_STOP
 
-## TUTORIAL_STEP: 3
+## TUTORIAL_STEP: 2
 ## First we add this
 
 if __name__ == '__main__':
